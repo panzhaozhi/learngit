@@ -1,1 +1,2 @@
-no news is good nows!
+no news is good nows.
+new line ...
